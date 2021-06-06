@@ -1,7 +1,0 @@
-language: python
-python:
--"3.7.10"
-install:
--pip3 install flask
-script:
--python3 ./flaskapp/some_app.py
