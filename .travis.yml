@@ -1,5 +1,4 @@
 language: python
-ыв
 install:
 -pip3 install flask
 script:
